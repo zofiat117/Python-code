@@ -1,0 +1,7 @@
+print(3+3)
+print(5-2)
+print(4*4)
+print(8/4)
+print(24//5)
+print(46%22)
+print(34**3)
